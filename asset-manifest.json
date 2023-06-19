@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc882024.css",
-    "main.js": "/static/js/main.1711b6be.js",
+    "main.css": "/static/css/main.6f550adf.css",
+    "main.js": "/static/js/main.810b4bd3.js",
     "static/js/683.14794478.chunk.js": "/static/js/683.14794478.chunk.js",
     "static/js/373.ed0540d2.chunk.js": "/static/js/373.ed0540d2.chunk.js",
     "static/js/768.d0140c84.chunk.js": "/static/js/768.d0140c84.chunk.js",
@@ -18,6 +18,7 @@
     "static/media/logo-v2-short.svg": "/static/media/logo-v2-short.17b5828978de5616d8a7.svg",
     "static/media/icon-width.svg": "/static/media/icon-width.4b597109031563f17913.svg",
     "static/media/icon-restricted.svg": "/static/media/icon-restricted.8b0ecf2af8c2fb0f67bb.svg",
+    "static/media/icon-camera.svg": "/static/media/icon-camera.64bedbedc55cb57d9fa0.svg",
     "static/media/icon-depth.svg": "/static/media/icon-depth.f9b1ea6d35c7d6879cbd.svg",
     "static/media/icon-length.svg": "/static/media/icon-length.72d6ff2ba25e9ffa3646.svg",
     "static/media/icon-privacy-policies.svg": "/static/media/icon-privacy-policies.9b0b4c92a95779c9f27c.svg",
@@ -33,12 +34,12 @@
     "static/media/icon-profile.svg": "/static/media/icon-profile.4bf85def3a5e09768eb9.svg",
     "index.html": "/index.html",
     "static/media/icon-weight.svg": "/static/media/icon-weight.ec7fc52b6eb17f3a14d5.svg",
-    "main.dc882024.css.map": "/static/css/main.dc882024.css.map",
-    "main.1711b6be.js.map": "/static/js/main.1711b6be.js.map",
+    "main.6f550adf.css.map": "/static/css/main.6f550adf.css.map",
+    "main.810b4bd3.js.map": "/static/js/main.810b4bd3.js.map",
     "787.1995788f.chunk.js.map": "/static/js/787.1995788f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc882024.css",
-    "static/js/main.1711b6be.js"
+    "static/css/main.6f550adf.css",
+    "static/js/main.810b4bd3.js"
   ]
 }
