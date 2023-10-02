@@ -1,12 +1,18 @@
 {
-  "@context": "https://www.w3.org/ns/did/v1",
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/secp256k1recovery-2020/v2"
+  ],
   "id": "did:web:collector-pprod.unikbase.dev",
-  "publicKey": [{
-    "id": "did:web:collector-pprod.unikbase.dev#owner",
-    "type": "EcdsaSecp256k1VerificationKey2019",
-    "controller": "did:web:unikbase.com",
-    "ethereumAddress": "0x6af1C7952c1B1f99D7701b9D27d54BcEB67363b0"
-  }],
+  "verificationMethod": [
+    {
+      "id": "did:web:collector-pprod.unikbase.dev#owner",
+      "type": "EcdsaSecp256k1VerificationKey2019",
+      "controller": "did:web:collector-pprod.unikbase.dev",
+      "publicKeyHex": "0xEDE62eD1773e40115004A54491909B2D4cfDF3e9"
+    }
+  ],
   "authentication": ["did:web:collector-pprod.unikbase.dev#owner"],
+  "assertionMethod": ["did:web:collector-pprod.unikbase.dev#owner"],
   "service": []
 }
