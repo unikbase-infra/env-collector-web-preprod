@@ -7,9 +7,6 @@
     "controller": "did:web:unikbase.com",
     "ethereumAddress": "0x6af1C7952c1B1f99D7701b9D27d54BcEB67363b0"
   }],
-  "authentication": [{
-    "type": "EcdsaSecp256k1SignatureAuthentication2019",
-    "publicKey": "did:web:collector-pprod.unikbase.dev#owner"
-  }],
+  "authentication": ["did:web:collector-pprod.unikbase.dev#owner"],
   "service": []
 }
