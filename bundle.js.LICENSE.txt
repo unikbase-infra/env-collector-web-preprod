@@ -1,3 +1,12 @@
+/*
+ * [js-sha512]{@link https://github.com/emn178/js-sha512}
+ *
+ * @version 0.9.0
+ * @author Chen, Yi-Cyuan [emn178@gmail.com]
+ * @copyright Chen, Yi-Cyuan 2014-2024
+ * @license MIT
+ */
+
 /*!
 	Copyright (c) 2018 Jed Watson.
 	Licensed under the MIT License (MIT), see
@@ -17,9 +26,6 @@
  * @author   Feross Aboukhadijeh <https://feross.org>
  * @license  MIT
  */
-
-/*! Case - v1.6.2 - 2020-03-24
-* Copyright (c) 2020 Nathan Bubna; Licensed MIT, GPL */
 
 /*! crc32.js (C) 2014-present SheetJS -- http://sheetjs.com */
 
@@ -163,6 +169,14 @@
 
 /**
  * @mui/material v5.11.9
+ *
+ * @license MIT
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @mui/styled-engine v5.11.9
  *
  * @license MIT
  * This source code is licensed under the MIT license found in the
